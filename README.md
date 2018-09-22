@@ -1,4 +1,4 @@
-WHATSAPP-APP
+WHATSAPP APP
 ------------
 
 You can see website here: https://shamababul123.github.io/whatsapp-app/
